@@ -1,0 +1,32 @@
+body {
+    background-image: url("https://www.syfy.com/sites/syfy/files/styles/1200x680/public/wire/legacy/MarvelDCFight.jpg");
+  
+   }
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    color: red;
+}
+
+title {
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+
+h3 {
+    color: white;
+}
+
+
+
+h4 {
+    color: white;
+}
+
+#win-counter{
+    color:white;
+}
+
+#loss-counter{
+    color: white;
+}
